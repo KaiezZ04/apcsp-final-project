@@ -1,0 +1,10 @@
+1. https://github.com/KaiezZ04/Jacky-zhou-Jonathan-Tang-csp-final-project.git
+
+2. Html, CSS, Java
+
+3. We refresh the web page after we make any changes. All the time we tries to figure out the function of position, size, and other functions that will help us to make the page looks nice on every screen.
+
+4. From Mr.Berti. Applying our first page to different size of screen without error.
+
+5. Other can use this open source website to build a tour guide to attract visitors who want to go to forbidden city. 
+
